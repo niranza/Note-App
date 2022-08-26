@@ -19,3 +19,5 @@ integrating:
 * Gson library
 * Coil- Library for loading images
 * use of local chaching with networkBoundResource
+  
+![](https://github.com/niranza/Note-App/blob/master/gifs/ktor_note_application_video.gif)
